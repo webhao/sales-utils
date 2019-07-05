@@ -11,13 +11,13 @@ export default {
   output: [
     {
       name: "_",
-      file: "build/mfw-utils.min.js",
+      file: "build/sales-utils.min.js",
       format: "umd",
       sourceMap: "inline"
     },
     {
       name: "_",
-      file: "build/mfw-utils.esm.js",
+      file: "build/sales-utils.esm.js",
       format: "es"
     }
   ],

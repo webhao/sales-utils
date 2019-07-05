@@ -1,9 +1,9 @@
 {
-  "name": "mfw-utils",
+  "name": "sales-utils",
   "version": "1.0.0",
   "description": "",
-  "main": "build/mfw-utils.min.js",
-  "module": "build/mfw-utils.ems.js",
+  "main": "build/sales-utils.min.js",
+  "module": "build/sales-utils.ems.js",
   "scripts": {
     "build": "NODE_ENV=production rollup -c",
     "dev": "rollup -c --watch",

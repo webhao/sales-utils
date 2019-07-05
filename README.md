@@ -1,4 +1,4 @@
-# Welcome to mfw-utils 👋
+# Welcome to sales-utils 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 
 > 一个函数库的搭建(rollup + ts + jest + eslint + babel7)

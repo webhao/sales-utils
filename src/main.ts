@@ -1,6 +1,6 @@
 import sum from './sum';
 
-class MFWUtil {
+class SalesUtil {
     sum: Function
     constructor() {
         this.sum = sum
@@ -8,4 +8,4 @@ class MFWUtil {
 }
 
 
-export default MFWUtil
+export default SalesUtil
